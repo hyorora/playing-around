@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+PRODID:-//Splash Event Planning System
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+DTSTAMP:20210615T194007Z
+UID:2b1d8ed75bc7105d522d44a7add262a08346f9af@ultimateintervi
+ ew061621.splashthat.com
+URL:https://ultimateinterview061621.splashthat.com/virtual?g
+ uest-access-hash=NDU4MTA4NTI2fDQxMzg2MTE1MHwxNjIzNzg2MDA0OzQ
+ 2NjFhYjc4NWNjYWQzOTc3NjdlOTVlM2E4NTFlYjZmZTM1ZjQwNmYyYzA4M2M
+ wMzc0NGMzYjE4YzIwMTIwNTk%3D
+DTSTART:20210617T003000Z
+DTEND:20210617T020000Z
+ORGANIZER;CN="Career Services":mailto:ultimateinterview06162
+ 1@splash.events
+SUMMARY:The Ultimate Interview Prep Session
+DESCRIPTION:Join us: https://zoom.us/j/93152841860\nPassword
+ : mycareer
+LOCATION:Virtual - Zoom Link
+END:VEVENT
+END:VCALENDAR
